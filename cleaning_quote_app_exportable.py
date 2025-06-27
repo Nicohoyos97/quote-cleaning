@@ -36,7 +36,7 @@ if 'quantity_value' not in st.session_state:
     st.session_state.quantity_value = 1
 
 # Title
-st.title("Cleaning Quote Calculator")
+st.title("Lumum Cleaning Quote Calculator")
 
 # Client Info Section
 st.markdown("### Client Information")
